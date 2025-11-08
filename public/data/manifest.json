@@ -1,0 +1,30 @@
+[
+  {
+    "id": "class-9",
+    "title": "Class 9th",
+    "description": "All subjects available",
+    "icon": "book-open",
+    "color": "indigo"
+  },
+  {
+    "id": "class-10",
+    "title": "Class 10th",
+    "description": "All subjects available",
+    "icon": "academic-cap",
+    "color": "sky"
+  },
+  {
+    "id": "class-11",
+    "title": "Class 11th",
+    "description": "All subjects available",
+    "icon": "beaker",
+    "color": "emerald"
+  },
+  {
+    "id": "class-12",
+    "title": "Class 12th",
+    "description": "All subjects available",
+    "icon": "bookmark",
+    "color": "rose"
+  }
+]

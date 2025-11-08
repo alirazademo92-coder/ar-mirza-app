@@ -1,0 +1,23 @@
+
+[
+    {
+        "id": "physics",
+        "name": "Physics",
+        "icon": "⚛️"
+    },
+    {
+        "id": "chemistry",
+        "name": "Chemistry",
+        "icon": "🧪"
+    },
+    {
+        "id": "computer-science",
+        "name": "Computer Science",
+        "icon": "💻"
+    },
+    {
+        "id": "pakistan-studies",
+        "name": "Pakistan Studies",
+        "icon": "🇵🇰"
+    }
+]

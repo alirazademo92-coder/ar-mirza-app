@@ -1,0 +1,33 @@
+
+[
+    {
+        "id": "physics",
+        "name": "Physics",
+        "icon": "⚛️"
+    },
+    {
+        "id": "chemistry",
+        "name": "Chemistry",
+        "icon": "🧪"
+    },
+    {
+        "id": "biology",
+        "name": "Biology",
+        "icon": "🧬"
+    },
+    {
+        "id": "mathematics",
+        "name": "Mathematics",
+        "icon": "🧮"
+    },
+    {
+        "id": "english",
+        "name": "English",
+        "icon": "📚"
+    },
+    {
+        "id": "urdu",
+        "name": "Urdu",
+        "icon": "🖋️"
+    }
+]
